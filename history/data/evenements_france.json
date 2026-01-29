@@ -1,0 +1,464 @@
+[
+  {
+    "annee": 496,
+    "titre": "Baptême de Clovis",
+    "description": "Clovis Ier, roi des Francs, est baptisé à Reims par l'évêque Remi, marquant la conversion du royaume franc au christianisme.",
+    "categorie": "Religion"
+  },
+  {
+    "annee": 732,
+    "titre": "Bataille de Poitiers",
+    "description": "Charles Martel arrête l'avancée des troupes arabes à Poitiers, préservant l'Europe occidentale de la conquête musulmane.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 800,
+    "titre": "Couronnement de Charlemagne",
+    "description": "Charlemagne est couronné empereur d'Occident par le pape Léon III à Rome le jour de Noël.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 843,
+    "titre": "Traité de Verdun",
+    "description": "Les trois petits-fils de Charlemagne se partagent l'Empire carolingien. Charles le Chauve reçoit la Francie occidentale, ancêtre de la France.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 987,
+    "titre": "Élection d'Hugues Capet",
+    "description": "Hugues Capet est élu roi de France, fondant la dynastie capétienne qui régnera directement ou indirectement jusqu'en 1848.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1066,
+    "titre": "Conquête normande de l'Angleterre",
+    "description": "Guillaume le Conquérant, duc de Normandie, bat Harold II à Hastings et devient roi d'Angleterre.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1095,
+    "titre": "Appel à la première croisade",
+    "description": "Le pape Urbain II lance l'appel à la première croisade au concile de Clermont pour libérer Jérusalem.",
+    "categorie": "Religion"
+  },
+  {
+    "annee": 1214,
+    "titre": "Bataille de Bouvines",
+    "description": "Philippe Auguste remporte une victoire décisive contre la coalition anglo-germanique, affirmant la puissance du royaume de France.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1226,
+    "titre": "Début du règne de Saint Louis",
+    "description": "Louis IX accède au trône et deviendra l'un des rois les plus respectés du Moyen Âge, canonisé en 1297.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1302,
+    "titre": "Premiers États généraux",
+    "description": "Philippe le Bel convoque les premiers États généraux du royaume pour obtenir le soutien contre le pape Boniface VIII.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1337,
+    "titre": "Début de la Guerre de Cent Ans",
+    "description": "Édouard III d'Angleterre revendique le trône de France, déclenchant un conflit qui durera jusqu'en 1453.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1348,
+    "titre": "La Peste Noire en France",
+    "description": "L'épidémie de peste bubonique atteint la France et décime entre un tiers et la moitié de la population européenne.",
+    "categorie": "Société"
+  },
+  {
+    "annee": 1429,
+    "titre": "Jeanne d'Arc délivre Orléans",
+    "description": "Jeanne d'Arc lève le siège d'Orléans par les Anglais, renversant le cours de la Guerre de Cent Ans.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1431,
+    "titre": "Mort de Jeanne d'Arc",
+    "description": "Jeanne d'Arc est brûlée vive à Rouen après avoir été condamnée pour hérésie. Elle sera réhabilitée en 1456.",
+    "categorie": "Religion"
+  },
+  {
+    "annee": 1453,
+    "titre": "Fin de la Guerre de Cent Ans",
+    "description": "La bataille de Castillon marque la victoire définitive de la France et la fin du conflit avec l'Angleterre.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1494,
+    "titre": "Début des Guerres d'Italie",
+    "description": "Charles VIII lance la première expédition française en Italie pour revendiquer le royaume de Naples.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1515,
+    "titre": "Bataille de Marignan",
+    "description": "François Ier remporte une victoire éclatante contre les Suisses, consolidant la présence française en Italie.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1534,
+    "titre": "Affaire des Placards",
+    "description": "Des affiches protestantes contre la messe catholique sont placardées jusqu'à la porte de la chambre du roi, déclenchant une répression.",
+    "categorie": "Religion"
+  },
+  {
+    "annee": 1539,
+    "titre": "Ordonnance de Villers-Cotterêts",
+    "description": "François Ier impose le français comme langue officielle de l'administration et de la justice à la place du latin.",
+    "categorie": "Culture"
+  },
+  {
+    "annee": 1562,
+    "titre": "Début des Guerres de Religion",
+    "description": "Le massacre de Wassy par les troupes du duc de Guise déclenche les guerres civiles entre catholiques et protestants.",
+    "categorie": "Religion"
+  },
+  {
+    "annee": 1572,
+    "titre": "Massacre de la Saint-Barthélemy",
+    "description": "Des milliers de protestants sont massacrés à Paris et dans les provinces lors de la nuit du 24 août.",
+    "categorie": "Religion"
+  },
+  {
+    "annee": 1598,
+    "titre": "Édit de Nantes",
+    "description": "Henri IV promulgue l'édit de Nantes accordant la liberté de culte aux protestants et mettant fin aux Guerres de Religion.",
+    "categorie": "Religion"
+  },
+  {
+    "annee": 1610,
+    "titre": "Assassinat d'Henri IV",
+    "description": "Le roi Henri IV est assassiné par Ravaillac. Son fils Louis XIII lui succède sous la régence de Marie de Médicis.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1635,
+    "titre": "Fondation de l'Académie française",
+    "description": "Le cardinal de Richelieu crée l'Académie française pour normaliser et perfectionner la langue française.",
+    "categorie": "Culture"
+  },
+  {
+    "annee": 1648,
+    "titre": "Début de la Fronde",
+    "description": "La révolte parlementaire puis nobiliaire éclate contre le pouvoir royal pendant la minorité de Louis XIV.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1661,
+    "titre": "Début du règne personnel de Louis XIV",
+    "description": "À la mort de Mazarin, Louis XIV annonce qu'il gouvernera seul, inaugurant le règne du Roi-Soleil.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1682,
+    "titre": "Installation de la Cour à Versailles",
+    "description": "Louis XIV transfère définitivement la cour au château de Versailles, symbole de l'absolutisme royal.",
+    "categorie": "Culture"
+  },
+  {
+    "annee": 1685,
+    "titre": "Révocation de l'édit de Nantes",
+    "description": "Louis XIV abroge l'édit de Nantes par l'édit de Fontainebleau, provoquant l'exil de 200 000 protestants.",
+    "categorie": "Religion"
+  },
+  {
+    "annee": 1715,
+    "titre": "Mort de Louis XIV",
+    "description": "Après 72 ans de règne, le plus long de l'histoire de France, Louis XIV meurt à Versailles. Louis XV lui succède.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1751,
+    "titre": "Publication de l'Encyclopédie",
+    "description": "Diderot et d'Alembert publient le premier volume de l'Encyclopédie, œuvre majeure des Lumières.",
+    "categorie": "Culture"
+  },
+  {
+    "annee": 1756,
+    "titre": "Début de la Guerre de Sept Ans",
+    "description": "La France s'engage dans un conflit mondial contre la Prusse et l'Angleterre qui lui coûtera ses colonies.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1763,
+    "titre": "Traité de Paris",
+    "description": "La France cède le Canada et la Louisiane orientale à l'Angleterre, marquant la fin de son premier empire colonial.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1778,
+    "titre": "Alliance franco-américaine",
+    "description": "La France s'allie aux insurgés américains contre l'Angleterre, contribuant à l'indépendance des États-Unis.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1789,
+    "titre": "Prise de la Bastille",
+    "description": "Le 14 juillet, le peuple de Paris prend d'assaut la forteresse de la Bastille, symbole de l'absolutisme royal.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1789,
+    "titre": "Déclaration des droits de l'homme",
+    "description": "L'Assemblée nationale adopte la Déclaration des droits de l'homme et du citoyen le 26 août.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1791,
+    "titre": "Fuite à Varennes",
+    "description": "Louis XVI et sa famille sont arrêtés à Varennes alors qu'ils tentent de fuir la France.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1792,
+    "titre": "Proclamation de la République",
+    "description": "La Convention nationale proclame la République française le 21 septembre, abolissant la monarchie.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1793,
+    "titre": "Exécution de Louis XVI",
+    "description": "Louis XVI est guillotiné place de la Révolution (actuelle place de la Concorde) le 21 janvier.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1793,
+    "titre": "Début de la Terreur",
+    "description": "Le Comité de salut public instaure la Terreur : des milliers de personnes seront exécutées jusqu'en 1794.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1794,
+    "titre": "Chute de Robespierre",
+    "description": "Le 9 Thermidor (27 juillet), Robespierre est arrêté et exécuté, mettant fin à la Terreur.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1799,
+    "titre": "Coup d'État du 18 Brumaire",
+    "description": "Napoléon Bonaparte prend le pouvoir par un coup d'État et instaure le Consulat.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1804,
+    "titre": "Sacre de Napoléon",
+    "description": "Napoléon Bonaparte se fait couronner empereur des Français à Notre-Dame de Paris le 2 décembre.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1804,
+    "titre": "Code civil",
+    "description": "Promulgation du Code civil, encore largement en vigueur aujourd'hui, unificateur du droit français.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1805,
+    "titre": "Bataille d'Austerlitz",
+    "description": "Napoléon remporte sa plus grande victoire contre les armées austro-russes, le 'soleil d'Austerlitz'.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1812,
+    "titre": "Campagne de Russie",
+    "description": "La Grande Armée envahit la Russie mais doit battre en retraite désastreuse face à l'hiver russe.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1815,
+    "titre": "Bataille de Waterloo",
+    "description": "Napoléon est définitivement vaincu par les armées britanniques et prussiennes à Waterloo le 18 juin.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1830,
+    "titre": "Révolution de Juillet",
+    "description": "Les 'Trois Glorieuses' (27-29 juillet) renversent Charles X. Louis-Philippe devient roi des Français.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1848,
+    "titre": "Révolution de Février",
+    "description": "Une révolution populaire renverse Louis-Philippe et proclame la Deuxième République.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1848,
+    "titre": "Abolition de l'esclavage",
+    "description": "Victor Schœlcher fait adopter le décret d'abolition définitive de l'esclavage dans les colonies françaises.",
+    "categorie": "Société"
+  },
+  {
+    "annee": 1851,
+    "titre": "Coup d'État de Louis-Napoléon Bonaparte",
+    "description": "Le président Louis-Napoléon Bonaparte dissout l'Assemblée et prépare le retour de l'Empire.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1852,
+    "titre": "Proclamation du Second Empire",
+    "description": "Louis-Napoléon Bonaparte devient Napoléon III, empereur des Français.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1870,
+    "titre": "Guerre franco-prussienne",
+    "description": "La France déclare la guerre à la Prusse et subit une défaite rapide et humiliante.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1870,
+    "titre": "Proclamation de la Troisième République",
+    "description": "Après la défaite de Sedan et la capture de Napoléon III, la République est proclamée le 4 septembre.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1871,
+    "titre": "La Commune de Paris",
+    "description": "Insurrection populaire à Paris qui établit un gouvernement révolutionnaire, réprimé dans le sang.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1881,
+    "titre": "Lois Jules Ferry sur l'école",
+    "description": "Instauration de l'école primaire gratuite, laïque et obligatoire pour tous les enfants.",
+    "categorie": "Société"
+  },
+  {
+    "annee": 1889,
+    "titre": "Exposition universelle et Tour Eiffel",
+    "description": "La Tour Eiffel est inaugurée pour l'Exposition universelle célébrant le centenaire de la Révolution.",
+    "categorie": "Culture"
+  },
+  {
+    "annee": 1894,
+    "titre": "Affaire Dreyfus",
+    "description": "Le capitaine Dreyfus est injustement condamné pour espionnage, déclenchant une grave crise politique.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1905,
+    "titre": "Loi de séparation des Églises et de l'État",
+    "description": "La loi affirme la laïcité de l'État français et met fin au Concordat de 1801.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1914,
+    "titre": "Début de la Première Guerre mondiale",
+    "description": "L'assassinat de l'archiduc François-Ferdinand déclenche un conflit qui fera 1,4 million de morts français.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1916,
+    "titre": "Bataille de Verdun",
+    "description": "La plus longue bataille de la Grande Guerre fait plus de 700 000 victimes des deux côtés.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1918,
+    "titre": "Armistice du 11 novembre",
+    "description": "L'armistice mettant fin à la Première Guerre mondiale est signé dans la clairière de Rethondes.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1936,
+    "titre": "Front populaire",
+    "description": "Le gouvernement de Léon Blum instaure les congés payés, la semaine de 40 heures et les conventions collectives.",
+    "categorie": "Société"
+  },
+  {
+    "annee": 1940,
+    "titre": "Appel du 18 juin",
+    "description": "Le général de Gaulle lance depuis Londres un appel à la résistance contre l'occupation allemande.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1940,
+    "titre": "Régime de Vichy",
+    "description": "Le maréchal Pétain instaure l'État français et la collaboration avec l'Allemagne nazie.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1944,
+    "titre": "Débarquement en Normandie",
+    "description": "Les forces alliées débarquent sur les plages de Normandie le 6 juin, début de la libération de la France.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1944,
+    "titre": "Libération de Paris",
+    "description": "Paris est libéré le 25 août. Le général de Gaulle descend les Champs-Élysées le lendemain.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1944,
+    "titre": "Droit de vote des femmes",
+    "description": "L'ordonnance d'Alger accorde le droit de vote et d'éligibilité aux femmes françaises.",
+    "categorie": "Société"
+  },
+  {
+    "annee": 1946,
+    "titre": "Quatrième République",
+    "description": "Une nouvelle constitution établit la Quatrième République après le rejet du premier projet par référendum.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1954,
+    "titre": "Défaite de Diên Biên Phu",
+    "description": "La chute du camp retranché marque la fin de la présence française en Indochine.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1954,
+    "titre": "Début de la Guerre d'Algérie",
+    "description": "La 'Toussaint rouge' marque le début de l'insurrection algérienne contre la présence française.",
+    "categorie": "Militaire"
+  },
+  {
+    "annee": 1958,
+    "titre": "Cinquième République",
+    "description": "Le général de Gaulle revient au pouvoir et fait adopter la constitution de la Ve République.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1962,
+    "titre": "Indépendance de l'Algérie",
+    "description": "Les accords d'Évian mettent fin à la Guerre d'Algérie et reconnaissent l'indépendance du pays.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1968,
+    "titre": "Mai 68",
+    "description": "Une crise sociale et politique majeure secoue la France, combinant révolte étudiante et grève générale.",
+    "categorie": "Société"
+  },
+  {
+    "annee": 1981,
+    "titre": "Élection de François Mitterrand",
+    "description": "Premier président socialiste de la Ve République, il abolit la peine de mort et décentralise.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 1992,
+    "titre": "Traité de Maastricht",
+    "description": "La France ratifie le traité créant l'Union européenne par référendum.",
+    "categorie": "Politique"
+  },
+  {
+    "annee": 2002,
+    "titre": "Passage à l'euro",
+    "description": "L'euro remplace le franc français après plus de 600 ans d'existence de la monnaie nationale.",
+    "categorie": "Économie"
+  },
+  {
+    "annee": 2015,
+    "titre": "Attentats de Paris",
+    "description": "Les attaques terroristes du 13 novembre font 130 morts et marquent profondément la société française.",
+    "categorie": "Société"
+  }
+]
