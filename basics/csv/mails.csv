@@ -1,0 +1,31 @@
+Expéditeur,Destinataire,Date,Sujet,Message
+alice@example.com,bob@example.com,01/10/2024,Réunion de projet,"Bonjour Bob,
+
+Je te confirme que la réunion de projet aura lieu ce vendredi à 10h. Merci de préparer le rapport de la semaine dernière.
+
+Cordialement,
+Alice"
+charles@example.com,team@example.com,02/10/2024,Mise à jour du planning,"Bonjour à tous,
+
+Voici le planning mis à jour pour le mois d'octobre. N'hésitez pas à me faire part de vos disponibilités.
+
+Bien à vous,
+Charles"
+eve@example.com,alice@example.com,03/10/2024,Question sur le rapport,"Salut Alice,
+
+Peux-tu m'envoyer les données du dernier rapport d'activité ? J'aimerais les inclure dans ma présentation.
+
+Merci,
+Eve"
+marketing@example.com,all@example.com,04/10/2024,Offre spéciale de formation interne,"Chers collègues,
+
+Nous avons le plaisir de vous annoncer une nouvelle offre de formation interne sur les outils numériques. Inscrivez-vous rapidement !
+
+Cordialement,
+L'équipe marketing"
+david@example.com,support@example.com,05/10/2024,Problème d'accès à la plateforme,"Bonjour,
+
+Je rencontre un problème pour accéder à la plateforme. Un message d'erreur apparaît à chaque tentative de connexion. Pouvez-vous m'aider à résoudre ce souci ?
+
+Merci d'avance,
+David"
