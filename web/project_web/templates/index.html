@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section id="notes">
+    <h2>Mes Notes</h2>
+    <ul>
+        {% for note in notes %}
+            <li>
+                <h3>{{ note.title }}</h3>
+                <p>{{ note.content }}</p>
+                <a href="{{ url_for('delete_note', index=loop.index0) }}" onclick="return confirm('Supprimer cette note ?');">❌</a>
+            </li>
+        {% else %}
+            <p>Aucune note pour le moment.</p>
+        {% endfor %}
+    </ul>
+</section>
+
+<section id="add-note">
+    <h2>Ajouter une Note</h2>
+    <form action="{{ url_for('add_note') }}" method="POST">
+        <input type="text" name="title" placeholder="Titre de la note" required>
+        <textarea name="content" placeholder="Contenu de la note" rows="4" required></textarea>
+        <button type="submit">Ajouter</button>
+    </form>
+</section>
+{% endblock %}

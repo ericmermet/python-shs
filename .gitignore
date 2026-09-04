@@ -1,1 +1,8 @@
+mnhn/
+
+# Fichiers générés par les exercices des notebooks (séances 1 et 3)
 basics/csv/nouveau_fichier.txt
+basics/csv/nouveau_fichier_test.txt
+basics/csv/nouveau_fichier.csv
+basics/pays_europe.json
+basics/pays_europe.csv
