@@ -9,6 +9,7 @@ Supports de cours et notebooks Jupyter pour l'initiation à Python appliquée au
 - **history/** — Analyse de données historiques.
 - **networks/** — Analyse de réseaux avec NetworkX.
 - **web/** — Webscraping et petit projet web.
+- **tuto_scripts/** — Tutoriel : créer un script `.py` reproductible (venv, requirements.txt) avec un exemple d'analyse de CSV et de dataviz.
 - **game/** — Petit jeu en Python.
 - **doc/** — Support PDF du cours ("Initiation à Python pour les SHS").
 - **old/** — Anciennes versions des notebooks.

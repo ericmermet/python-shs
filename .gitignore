@@ -6,3 +6,7 @@ basics/csv/nouveau_fichier_test.txt
 basics/csv/nouveau_fichier.csv
 basics/pays_europe.json
 basics/pays_europe.csv
+
+# Environnements virtuels et fichiers générés (tuto_scripts et autres)
+venv/
+tuto_scripts/notes_etudiants.png
